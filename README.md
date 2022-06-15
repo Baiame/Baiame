@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baiame
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I have been a MSc Student in Advanced Computing at the Imperial College of London
+- 🌱 I have been an MSc Student in Advanced Computing at the Imperial College of London
 - 💞️ I’m looking to collaborate on any ML project
 - 📫 How to reach me: dunno
 
